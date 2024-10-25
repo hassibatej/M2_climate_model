@@ -1,2 +1,2 @@
-# M2_climate_model
+# M2 climate modelling
 project for the course "Pratique de la modélisation en géosciences"
